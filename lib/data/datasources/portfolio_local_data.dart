@@ -47,7 +47,8 @@ class PortfolioLocalData {
       appStoreUrl: 'https://apps.apple.com/ae/app/qposs/id6753131108',
       playStoreUrl:
           'https://play.google.com/store/apps/details?id=com.quanumpossibilities.qp',
-      techStack: 'MVC, GetX, REST API, Socket.IO, RTMP, Crypto Wallet, FCM, Deep Link',
+      techStack:
+          'MVC, GetX, REST API, Socket.IO, RTMP, Crypto Wallet, FCM, Deep Link',
     ),
     ProjectItem(
       category: 'FLUTTER APP',
@@ -125,7 +126,8 @@ class PortfolioLocalData {
     ),
     EducationItem(
       institution: 'Premier University, Chittagong (PUC)',
-      degree: 'Bachelor of Science (BSc) in Electrical and Electronic Engineering',
+      degree:
+          'Bachelor of Science (BSc) in Electrical and Electronic Engineering',
       period: '2011 – 2016',
       grade: 'CGPA: 3.21',
       description:
@@ -156,7 +158,7 @@ class PortfolioLocalData {
   // ── Experience ──────────────────────────────────────────
   static const List<ExperienceItem> experience = [
     ExperienceItem(
-      role: 'Mid Mobile App Developer (Sr Executive)',
+      role: 'Senior Mobile App Developer (Sr Executive)',
       company: 'Pakiza Software Limited',
       period: 'June 2024 – Present',
       highlights: [

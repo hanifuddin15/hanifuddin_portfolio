@@ -102,7 +102,7 @@ To run the portfolio application on your local machine, follow these steps:
 
 ## 👨‍💻 About Me
 
-I am **Hanif Uddin**, an experienced **Mobile Application Developer** currently serving as a **Mid Mobile App Developer (Sr Executive)** at *Pakiza Software Limited*. I have a passion for engineering robust mobile and web solutions with stellar performance, responsive designs, and clean codebase architectures.
+I am **Hanif Uddin**, an experienced **Mobile Application Developer** currently serving as a **Senior Mobile App Developer (Sr Executive)** at *Pakiza Software Limited*. I have a passion for engineering robust mobile and web solutions with stellar performance, responsive designs, and clean codebase architectures.
 
 I hold an **M.Sc. in Communication and Signal Processing** from the prestigious **Bangladesh University of Engineering and Technology (BUET)** and a **B.Sc. in Electrical and Electronic Engineering** from **Premier University**.
 
