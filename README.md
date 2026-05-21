@@ -1,63 +1,115 @@
-# 🔥 🔥 Flutter Web Portfolio 🔥 🔥 💫 ⭐️ ⭐️ 👨‍💻 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/iam_olayemii.svg?style=social)](https://twitter.com/iam_olayemii)
+# 🚀 Hanif Uddin - Mobile Application Developer Portfolio
 
-![GitHub Repo stars](https://img.shields.io/github/stars/olayemii/flutter-web-portfolio?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/olayemii/flutter-web-portfolio?style=social) ![GitHub followers](https://img.shields.io/github/followers/olayemii?style=social)
+[![GitHub](https://img.shields.io/badge/GitHub-hanifuddin15-1817C7?logo=github&style=flat-square)](https://github.com/hanifuddin15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hanifuddin-0A66C2?logo=linkedin&style=flat-square)](https://linkedin.com/in/hanifuddin)
+[![Email](https://img.shields.io/badge/Email-hanifuddin.dev%40gmail.com-D14836?logo=gmail&style=flat-square)](mailto:hanifuddin.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801963978074-25D366?logo=whatsapp&style=flat-square)](https://wa.me/8801963978074)
 
-### Demo URL
-https://web-portfolio-ddd55.web.app
+Welcome to the official repository of my **Flutter Web Portfolio**. This is a premium, highly responsive, and interactive web application designed to showcase my professional experience, featured mobile applications, core skills, and academic background.
 
+---
 
-### SpeedCode Tutorial
-https://youtu.be/MD9_J09I6ew
+## ✨ Features
 
-https://youtu.be/lZ5hhEpnn3s
+- **📱 Fully Responsive Design**: Seamlessly adapts to Desktop, Tablet, and Mobile viewport sizes using dynamic layout wrappers.
+- **🎨 Modern Dark Aesthetics**: Features a custom-tailored dark color palette (`kBackgroundColor` & `kPrimaryColor`) optimized for developers and premium appeal.
+- **⚡ High-Performance Architecture**: Built with Flutter Web, delivering smooth transitions, animations, and fast load times.
+- **📂 Clean & Modular Structure**: Adheres to modern architectural paradigms (clean architecture, BLoC, and GetX design patterns) for maximum scaling.
+- **💼 Interactive Sections**:
+  - **Hero Area**: Engaging introduction with interactive call-to-actions.
+  - **Stats Showcase**: Highlights key professional achievements.
+  - **Services**: Overview of core competencies.
+  - **Project Showcase**: Rich list of major deployed and personal projects with App Store/Play Store links.
+  - **Skills Inventory**: Visual representation of tech stack mastery.
+  - **Work Experience**: Interactive chronological history of professional roles.
+  - **Education**: Showcases solid academic credentials.
 
-Web Portfolio, Based on a design on UpLabs and hosted on Firebase 💓.
+---
 
-Complete flutter projects are available on my <a href="https://codecanyon.net/user/chris2code/portfolio">Codecanyon.net Page</a>
+## 🛠️ Tech Stack & Architecture
 
-PRs are welcomed. Issues are welcomed too.
+- **Core**: Dart & Flutter Web
+- **State Management**: GetX & Flutter BLoC
+- **Architecture**: MVC / MVVM / Clean Architecture
+- **API & Protocols**: REST APIs, GraphQL, Socket.IO, WebRTC, RTMP
+- **Integrations**: Firebase (FCM & Firestore), Supabase, SQLite, Vertex AI
+- **CI/CD & Tools**: FVM, GitHub Actions, Fastlane, Firebase Hosting
 
-Send me UI suggestions for any uplabs project on <a href="mailto:info@flutterpanda.com">info@flutterpanda.com</a>
+---
 
-### Support App
+## 🚀 Featured Projects
 
-> ⭐️ Star the repo to show support. ⭐️
+Here are some of the key mobile applications highlighted in this portfolio:
 
-> You can also support the project by buying me a cup of coffee ☕️.
+1. **Quantum Possibilities (QPoss)**
+   - *A major social networking platform with millions of users.*
+   - **Tech**: MVC, GetX, REST API, Socket.IO, RTMP Streaming, Crypto Wallet integration.
+   - **App Store**: [Download](https://apps.apple.com/ae/app/qposs/id6753131108) | **Play Store**: [Download](https://play.google.com/store/apps/details?id=com.quanumpossibilities.qp)
 
-> <a href="https://www.buymeacoffee.com/xPGLYEr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xPGLYEr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+2. **QP Messenger**
+   - *Real-time messaging, multimedia sharing, high-fidelity voice and video calling.*
+   - **Tech**: GetX, Socket.IO, WebRTC, Method Channel, FCM.
+   - **App Store**: [Download](https://apps.apple.com/ae/app/qposs-messenger/id6753579477) | **Play Store**: [Download](https://play.google.com/store/apps/details?id=com.qp.messenger)
 
-Or Support me on Patreon
+3. **Austtaa**
+   - *Cross-platform Flutter application for alumni networking.*
+   - **Tech**: Flutter, GetX, SQLite, Firebase Firestore.
+   - **Play Store**: [Download](https://surl.li/mumvnt)
 
-<a href="https://www.patreon.com/bePatron?u=48456662" data-patreon-widget-type="become-patron-button"><img src="https://raw.githubusercontent.com/codebard/patron-button-and-widgets-by-codebard/master/images/patreon-medium-button.png" alt="Become a Patreon!" /></a>
+4. **Shopy Swiss**
+   - *Feature-rich Swiss e-commerce platform with smooth checkout.*
+   - **Tech**: Clean Architecture, BLoC, SQLite, REST API.
+   - **Play Store**: [Download](https://surl.lt/csekbf)
 
-### 💻 Requirements
+5. **Kambaii**
+   - *Health provider application catering to clinical needs.*
+   - **Tech**: Flutter, BLoC, SQLite, REST API.
+   - **Play Store**: [Download](https://surl.li/rsbail)
 
-- Any Operating System (MacOS, Linux, Windows)
-- Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
+---
 
-### 👨‍💻 Author
+## 💻 Running the Project Locally
 
-Olayemi Garuba [![Twitter Follow](https://img.shields.io/twitter/follow/iam_olayemii.svg?style=social)](https://twitter.com/iam_olayemii)
+To run the portfolio application on your local machine, follow these steps:
 
+### Prerequisites
+1. Install the [Flutter SDK](https://docs.flutter.dev/get-started/install).
+2. Configure your favorite IDE (VS Code or Android Studio) with Flutter & Dart extensions.
 
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web1_y9yrmi.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589179/assets/web2_zn7w5n.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web3_mmq07i.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web4_ewgepc.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web5_pqw6x2.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589190/assets/web6_bdngkk.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589174/assets/web7_yhg33u.png)
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/hanifuddin15/hanifuddin_portfolio.git
+   cd hanifuddin_portfolio
+   ```
 
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
 
+3. **Run the web application locally:**
+   ```bash
+   flutter run -d chrome
+   ```
 
-#### Mobile Screens
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589167/assets/phone1_ptibcj.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589168/assets/phone2_sm6lmt.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589170/assets/phone3_ec7iwb.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589169/assets/phone4_xwldjr.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589172/assets/phone5_qb51tt.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589169/assets/phone6_x8ynjy.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589172/assets/phone7_szij23.png)
+4. **Build production web assets:**
+   ```bash
+   flutter build web --release
+   ```
 
+---
+
+## 👨‍💻 About Me
+
+I am **Hanif Uddin**, an experienced **Mobile Application Developer** currently serving as a **Mid Mobile App Developer (Sr Executive)** at *Pakiza Software Limited*. I have a passion for engineering robust mobile and web solutions with stellar performance, responsive designs, and clean codebase architectures.
+
+I hold an **M.Sc. in Communication and Signal Processing** from the prestigious **Bangladesh University of Engineering and Technology (BUET)** and a **B.Sc. in Electrical and Electronic Engineering** from **Premier University**.
+
+- 🔭 **Focus**: Advanced cross-platform architectures, real-time communications (Socket.IO / WebRTC), and AI integrations.
+- 📫 **Contact**: [hanifuddin.dev@gmail.com](mailto:hanifuddin.dev@gmail.com)
+- 💬 **Ask me about**: Flutter, Dart, State Management, App Store/Play Store Deployments, and Clean Architecture.
+
+---
+
+*Made with ❤️ by [Hanif Uddin](https://github.com/hanifuddin15)*
